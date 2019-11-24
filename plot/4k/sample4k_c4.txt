@@ -1,0 +1,339 @@
+(Cuddalore) 506
+(Cuddalore) 420
+(Nagaur) 420
+(Nagaur) 34
+(Araria) 506
+(Araria) 34
+(Ramanathapuram) 341
+(Ramanathapuram) 34
+(Mandsour) 0
+(Khagaria) 420
+(Pataliputra) 420
+(Mumbai North East) 0
+(Phulpur) 0
+(Balaghat) 427
+(Balaghat) 34
+(Balaghat) 420
+(Navsari) 420
+(Navsari) 34
+(Navsari) 420
+(Amroha) 420
+(Amroha) 427
+(Pataliputra) 427
+(Godda) 504
+(Godda) 34
+(Raver) 420
+(Bhopal) 506
+(Bhopal) 420
+(Bharuch) 420
+(Bharuch) 34
+(Badaun) 0
+(Nanded) 0
+(Muzaffarpur) 34
+(Nagpur) 34
+(Aurangabad) 427
+(Aurangabad) 34
+(Aurangabad) 341
+(Aurangabad) 0
+(Purnia) 420
+(Purnia) 504
+(Buxar) 0
+(Jahanabad) 0
+(Baghpat) 420
+(Birbhum) 0
+(Kota) 332
+(Kota) 504
+(Pathanamthitta) 34
+(Munger) 323
+(Munger) 504
+(Raver) 506
+(Amroha) 420
+(Amroha) 427
+(Valmiki Nagar) 34
+(Darbhanga) 427
+(Darbhanga) 504
+(Satna) 420
+(Satna) 34
+(Bathinda) 420
+(Chhindwara) 420
+(Nashik) 420
+(Nashik) 34
+(Indore) 506
+(Ghaziabad) 323
+(Ghaziabad) 506
+(Ujjain) 0
+(Begusarai) 420
+(Vijayawada) 420
+(Balurghat) 0
+(Kishanganj) 420
+(Kishanganj) 34
+(Jaipur) 420
+(Jaipur) 0
+(Jaipur) 332
+(Madha) 506
+(Tiruppur) 0
+(Ambedkar Nagar) 504
+(Ambedkar Nagar) 506
+(Banswara) 332
+(Banswara) 34
+(Chatra) 323
+(Nagpur) 420
+(Nagpur) 34
+(Rajkot) 420
+(Bangalore Rural) 504
+(Jamui) 341
+(Jamui) 323
+(Nanded) 420
+(Ahmedabad East) 420
+(Yavatmal-Washim) 34
+(Panchmahal) 0
+(Chandrapur) 341
+(Korba) 420
+(Korba) 34
+(Bangalore North) 420
+(Vijayawada) 0
+(Navsari) 0
+(Mumbai North) 504
+(Mumbai North) 506
+(Rae bareli) 504
+(Tonk-Sawai Madhopur) 420
+(Tonk-Sawai Madhopur) 34
+(Ahmedabad East) 323
+(Lucknow) 0
+(Koppal) 0
+(Kadapa) 420
+(Damoh) 0
+(Damoh) 341
+(Bhagalpur) 420
+(Bhagalpur) 34
+(Kushi Nagar) 0
+(Kalyan) 34
+(Palghar) 504
+(Palghar) 506
+(Khandwa) 506
+(Khandwa) 341
+(Khagaria) 506
+(Adilabad) 506
+(Salem) 341
+(Arakkonam) 420
+(Jaynagar) 148
+(Jaynagar) 149
+(Arunachal West) 427
+(O SOHAN LAL) 0
+(Nilgiris) 147
+(Nilgiris) 341
+(Karur) 147
+(Karur) 341
+(Chidambaram) 0
+(Namakkal) 332
+(Namakkal) 341
+(Vellore) 506
+(Vellore) 34
+(Amravati) 420
+(Amravati) 341
+(Amravati) 147
+(Amravati) 34
+(Zahirabad) 0
+(Meerut) 506
+(Meerut) 332
+(Meerut) 420
+(Arrah) 504
+(Bathinda) 323
+(Bathinda) 34
+(Bathinda) 0
+(Gurgaon) 0
+(Rohtak) 420
+(Maharajganj) 0
+(Maharajganj) 0
+(Malkajgiri) 506
+(Siwan) 0
+(Gautam Budhha Nagar) 0
+(Bangalore North) 149
+(Bangalore North) 506
+(Kolar) 504
+(Kolar) 149
+(Kolar) 0
+(North East Delhi) 506
+(North East Delhi) 34
+(North East Delhi) 0
+(Araria) 341
+(Araria) 323
+(Araria) 353
+(Mathura) 420
+(Barpeta) 341
+(Barpeta) 427
+(Parbhani) 420
+(Chandauli) 420
+(Chandauli) 34
+(Ahmedabad East) 149
+(Ahmedabad East) 506
+(Paschim Champaran) 420
+(Valmiki Nagar) 506
+(Valmiki Nagar) 34
+(Ujiarpur) 34
+(Muzaffarpur) 147
+(Dhanbad) 34
+(Satna) 506
+(Araria) 323
+(Araria) 332
+(Samastipur) 420
+(Supaul) 420
+(Bangalore Central) 420
+(Anakapalle) 420
+(South Delhi) 506
+(South Delhi) 34
+(Vaishali) 323
+(Pali) 332
+(Cuttack) 420
+(West Delhi) 420
+(West Delhi) 506
+(New Delhi) 34
+(Bhadrak) 341
+(Gautam Budhha Nagar) 420
+(Gautam Budhha Nagar) 120
+(Gautam Budhha Nagar) 0
+(Aurangabad) 447
+(Aurangabad) 325
+(Aurangabad) 323
+(Aurangabad) 504
+(Aurangabad) 0
+(Aligarh) 435
+(Aurangabad) 366
+(Aurangabad) 342
+(Aurangabad) 34
+(Aurangabad) 0
+(Betul) 34
+(Bidar) 420
+(Bangalore Central) 420
+(Bangalore Central) 34
+(Krishnanagar) 323
+(Krishnanagar) 506
+(Gandhinagar) 332
+(Jabalpur) 506
+(Dindigul) 420
+(Aonla) 506
+(Raipur) 420
+(Raipur) 34
+(Amravati) 420
+(Amravati) 34
+(Madhubani) 323
+(Madhubani) 34
+(Chidambaram) 506
+(Theni) 506
+(Junagadh) 420
+(Chennai South) 504
+(Chennai South) 506
+(Coimbatore) 148
+(Sriperumbudur) 420
+(Nowgong) 506
+(Valmiki Nagar) 323
+(Valmiki Nagar) 34
+(Vellore) 506
+(Nanded) 420
+(Hathras) 147
+(Bijnor) 332
+(Moradabad) 504
+(Moradabad) 506
+(Amritsar) 420
+(Chevella) 148
+(Chevella) 323
+(Muzaffarpur) 420
+(Muzaffarpur) 506
+(Baramulla) 34
+(Darbhanga) 323
+(Lakshadweep) 506
+(Lakshadweep) 34
+(Barrackpur) 148
+(Barrackpur) 149
+(Tiruvannamalai) 506
+(Chalakudy) 420
+(Basti) 504
+(Basti) 506
+(Thrissur) 341
+(Thrissur) 323
+(Bhagalpur) 323
+(Bhagalpur) 329
+(Bhagalpur) 504
+(Gonda) 427
+(Rajmahal) 323
+(Bhadohi) 420
+(Idukki) 420
+(Banka) 420
+(Faizabad) 332
+(Faizabad) 149
+(Bhiwandi) 420
+(Phulpur) 323
+(Munger) 34
+(Munger) 427
+(Gwalior) 427
+(Guna) 420
+(Tikamgarh) 420
+(Nagpur) 506
+(Bharuch) 506
+(Kakinada) 506
+(Kakinada) 34
+(Kadapa) 427
+(Kadapa) 506
+(Dharwad) 504
+(Dharwad) 506
+(Navsari) 323
+(Navsari) 506
+(Ghosi) 420
+(Jhargram) 427
+(Jhargram) 506
+(Godda) 420
+(Bankura) 506
+(Bankura) 34
+(Kishanganj) 420
+(Bansgaon) 504
+(Bansgaon) 506
+(Darjeeling) 34
+(Jhalawar-Baran) 420
+(Nalanda) 34
+(Kurukshetra) 420
+(Ajmer) 323
+(Ajmer) 324
+(Hyderabad) 506
+(Malkajgiri) 420
+(Sikar) 323
+(Sikar) 34
+(Hisar) 420
+(Bathinda) 149
+(Bathinda) 506
+(Pune) 34
+(Rajkot) 427
+(Baramati) 34
+(Sonipat) 323
+(Sonipat) 506
+(Bhiwani-Mahendragarh) 420
+(Faridabad) 323
+(Faridabad) 34
+(Meerut) 420
+(Shillong) 34
+(Koppal) 504
+(Koppal) 506
+(Sitapur) 420
+(Palamau) 420
+(Unnao) 427
+(Gaya) 504
+(Gaya) 34
+(Thane) 420
+(Mumbai North) 506
+(Pratapgarh) 506
+(Mohanlalganj) 504
+(Mohanlalganj) 506
+(Latur) 34
+(Banaskantha) 420
+(Jamnagar) 323
+(Osmanabad) 34
+(Osmanabad) 34
+(Tripura West) 341
+(Tripura West) 506
+(Chatra) 34
+(Kanpur) 420
+(Kanpur) 506
+(Sangli) 341
+(Sangli) 332
+(Jammu) 332
+(Silchar) 427
+(Silchar) 506
