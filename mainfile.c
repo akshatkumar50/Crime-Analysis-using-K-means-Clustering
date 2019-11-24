@@ -36,28 +36,28 @@ void read_csv(){
 	     char* tok;
 
 	    tok = strtok(line, "/");
-	     printf("1");
+	 //    printf("1");
 	    strcpy(o[x].name,tok);
 	    tok = strtok(NULL, "/");
-		printf("2");
+	//	printf("2");
 		strcpy(o[x].constituency,tok);
 	    tok = strtok(NULL, "/");
-		printf("3");
+	//	printf("3");
 		strcpy(o[x].party,tok);
 		tok = strtok(NULL, "/");
-		printf("4");
+	//	printf("4");
 		sscanf(tok,"%d",&j);
 		o[x].crica=j;
 	    tok = strtok(NULL, "/");
-		printf("5");
+	//	printf("5");
 		strcpy(o[x].edu,tok);
 	    tok = strtok(NULL, "/");
-		printf("6");
+	//	printf("6");
 		sscanf(tok,"%d",&j);
 		o[x].assets=j;
 
 	    tok = strtok(NULL, "/");
-	    printf("7");
+	  //  printf("7");
 		sscanf(tok,"%d",&j);
 		o[x].liab=j;
 		tok = strtok(NULL, "/");
@@ -104,7 +104,7 @@ void read_csv(){
 		//}
 
 
-	    printf("#\n");
+	//    printf("#\n");
 
        free(tmp);
         i++;
